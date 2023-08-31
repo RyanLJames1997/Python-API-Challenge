@@ -8,11 +8,11 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
 
 Furthermore, this challenge accentuate's my Python coding with the implementation of using specific API's.
 
-The API's used are:
+This challenge uses the following Jupyter Notebooks of:
 - WeatherPy (used to analyse temperatures across cities globally)
 - VacationPy (used to identify hotels in cities globally when given specific parameters)
 
-In this Challenge, the following relationships are observed in WeatherPy:
+In this callenge, the following relationships are observed in WeatherPy:
 - Latitude vs. Temperature
 - Latitude vs. Humidity
 - Latitude vs. Cloudiness
@@ -28,4 +28,4 @@ In this Challenge, the following relationships are observed in VacationPy:
 - Northern Hemisphere: Wind Speed (m/s) vs. Latitude
 - Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 
-Furthermore, the r-score is calculated for each relationship to display how strong or weak the correlation is between these variables are.
+Furthermore, the r-score is calculated through linear regression for each parameter to display how strong or weak the correlation is.
