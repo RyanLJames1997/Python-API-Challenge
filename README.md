@@ -12,13 +12,13 @@ This challenge uses the following Jupyter Notebooks of:
 - WeatherPy (used to analyse temperatures across cities globally)
 - VacationPy (used to identify hotels in cities globally when given specific parameters)
 
-In this callenge, the following relationships are observed in WeatherPy:
+In this challenge, the following relationships are observed in WeatherPy:
 - Latitude vs. Temperature
 - Latitude vs. Humidity
 - Latitude vs. Cloudiness
 - Latitude vs. Wind Speed
 
-In this Challenge, the following relationships are observed in VacationPy:
+In this challenge, the following relationships are observed in VacationPy:
 - Northern Hemisphere: Temperature (C) vs. Latitude
 - Southern Hemisphere: Temperature (C) vs. Latitude
 - Northern Hemisphere: Humidity (%) vs. Latitude
